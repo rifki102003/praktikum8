@@ -15,7 +15,7 @@ README.md.<P>
 
 ### Beikut merupakan program input data mahasiswa dengan pengaplikasian class
 Untuk flowchart nya seperti ini<P>
-![gambar 1](screenshot/cc4.JPG)
+![gambar 1](screenshot/cc4.jpg)
 Berikut beberapa pemaparan dari setiap syntax input nya<p>
 Input untuk mengimport untuk mendapatkan clear system os<p>
 
